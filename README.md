@@ -81,3 +81,7 @@ Anyone can audit this course at no-charge. If you choose to take this course and
 
 **Graded:** Peer Reviewed Assignment
 
+#
+This course is part of the **IBM Data Science Professional Certificate**\
+![Coursera VSLPTE68ZLRM_page-0001](https://github.com/user-attachments/assets/ab3b87b5-9ef0-4383-86cd-dfc47d3e7183)
+
