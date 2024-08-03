@@ -90,5 +90,11 @@ This course is part of the **IBM Data Science Professional Certificate**\
 
 
 
-<img src = "https://github.com/user-attachments/assets/0a8acf54-346b-4008-b292-0ec3f23bd388" alt = "Header" height = "100" width= "100">
+<img src = "https://github.com/user-attachments/assets/0a8acf54-346b-4008-b292-0ec3f23bd388" alt = "Header" height = "200" width= "300">
+
+**This badge earner understands relational database concepts, can construct and execute SQL queries, and has demonstrated hands-on experience accessing data from databases using Python-based Data Science tools like Jupyter notebooks.**
+
+<p align="middle">
+   <img  src= "https://github.com/user-attachments/assets/b6f0df5b-2576-4370-9818-c43fe372bc2c" height="50"> <br>
+</p>
 
