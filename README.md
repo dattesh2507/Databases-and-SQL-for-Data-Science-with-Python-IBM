@@ -88,3 +88,6 @@ This course is part of the **IBM Data Science Professional Certificate**\
 
 <img src = "https://github.com/user-attachments/assets/ab3b87b5-9ef0-4383-86cd-dfc47d3e7183" alt="Header" height="300" width="600">
 
+
+<img src = "https://github.com/user-attachments/assets/0a8acf54-346b-4008-b292-0ec3f23bd388" alt = "Header" height = "200" width= "400">
+
